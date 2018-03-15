@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.myexcel.bean.CheckableLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_table_content"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <com.myexcel.view.RowItmeViewLayout
+        android:id="@+id/rowl_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></com.myexcel.view.RowItmeViewLayout>
+
+
+</com.myexcel.bean.CheckableLinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="MyProgress">
+        <attr name="mpLayoutWidth" format="dimension"></attr> <!--默认宽度-->
+        <attr name="mpLayoutHeight" format="dimension"></attr> <!--默认高度-->
+        <attr name="mpMaxValues" format="integer"></attr> <!--设置最大值-->
+        <attr name="mpStartValues" format="integer"></attr> <!--设置起始值 默认零-->
+        <attr name="mpEndValues" format="integer"></attr> <!--设置结束值-->
+
+        <attr name="mpBackGroundColor" format="color"></attr><!--背景色-->
+        <attr name="mpFillGroundColor" format="color"></attr><!--填充色-->
+
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_bj">#EDF8FF</color>
+
+    <color name="color_transparent">#00000000</color>
+    <!--百分比-开头字母-->
+    <!--100% —FF-->
+    <!--95% — F2-->
+    <!--90% — E6-->
+    <!--85% — D9-->
+    <!--80% — CC-->
+    <!--75% — BF-->
+    <!--70% — B3-->
+    <!--65% — A6-->
+    <!--60% — 99-->
+    <!--55% — 8C-->
+    <!--50% — 80-->
+    <!--45% — 73-->
+    <!--40% — 66-->
+    <!--35% — 59-->
+    <!--30% — 4D-->
+    <!--25% — 40-->
+    <!--20% — 33-->
+    <!--15% — 26-->
+    <!--10% — 1A-->
+    <!--5% — 0D-->
+    <!--0% — 00-->
+    <!--全透明举例-->
+    <!--#00000000-->
+
+
+    <!--通用颜色定义-->
+    <color name="white">#ffffffff</color>
+    <color name="gray">#e0e0e0</color>
+    <color name="transparency">#00000000</color>
+    <color name="common_pressed">#20000000</color>  <!--白色背景按下去的颜色-->
+
+    <!--<color name="split_line">#11112233</color>-->
+    <!--<color name="text1">#333333</color>-->
+    <!--<color name="text2">#333333</color>-->
+    <!--<color name="color1">#F0F0F0</color>-->
+    <!--<color name="color2">#FFFFFF</color>-->
+    <!--<color name="color3">#B0B0B0</color>-->
+    <!--<color name="color4">#666666</color>-->
+    <!--<color name="color5">#57C5E8</color>-->
+
+    <!--<color name="divider">#ffd2d2d2</color>-->
+
+    <!-- 黑色用这个代替 -->
+    <color name="black_color">#333333</color>
+    <!-- 导航条，普通的灰色 -->
+    <color name="common_color">#666666</color>
+    <!-- 比灰色浅一点 -->
+    <color name="littlebalck_color">#999999</color>
+    <color name="smallbalck_color">#e1e1e1</color>
+    <!-- 所有背景灰色 -->
+    <color name="all_bgcolor">#f4f4f4</color>
+    <!-- 间隔的布局的颜色 -->
+    <color name="spacing_bg">#f3f3f3</color>
+    <color name="app_theme">#FFAE2B</color>
+    <color name="app_theme_dark">#D27C1F</color>
+    <color name="base_msg_color">#ff999999</color>
+
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+    <!--<color name="gplus_color_1">#3e802f</color>-->
+    <!--<color name="gplus_color_2">#f4b400</color>-->
+    <!--<color name="gplus_color_3">#427fed</color>-->
+    <!--<color name="gplus_color_4">#b23424</color>-->
+    <color name="gplus_color_1">@color/orange</color>
+    <color name="gplus_color_2">@color/c_red_q</color>
+    <color name="gplus_color_3">@color/app_theme</color>
+    <color name="gplus_color_4">@color/app_theme_dark</color>
+
+
+    <color name="main_color">#0099ff</color>
+    <color name="main_color_press">#1d70c9</color>
+
+    <color name="blacker">#3c3c3c</color>
+    <color name="blue">#10b6f2</color>
+    <color name="blue_d">#d4edfd</color>
+    <color name="blue_s">#01a7e1</color>
+    <color name="c_0099ff">#0099ff</color>
+
+    <color name="ges_ture_blue">#79D3F9</color>
+    <color name="ges_ture_black">#4C4C4C</color>
+
+    <color name="all_page_bg">#326aae</color>
+
+
+    <color name="violet">#b530c0</color>
+    <color name="green">#459a3e</color>
+    <color name="greenA">#5CD491</color>
+    <color name="hui">#f2f2f2</color>
+    <color name="hui_q">#E2E7ED</color>
+
+    <color name="hui_b3">#b3b3b3</color>
+    <color name="hui_eee">#EEEEEE</color>
+
+
+    <color name="red1">#d81e06</color>
+    <color name="line">#ffd3dde6</color>
+    <color name="red_btn_color_normal">#ffff5454</color>
+    <color name="app_bg">#eeeff3</color>
+    <color name="theme">@color/red</color>
+    <color name="theme_red">@color/red</color>
+    <color name="theme_white">@color/white</color>
+    <color name="gray_light">#EBEBEB</color>
+    <color name="gray_line">#dddddd</color>
+    <color name="hint_text">#B9BABB</color>
+    <color name="small_goods_price">#FF8C69</color>
+    <color name="title_black_color">#333333</color>
+    <color name="text_red">#ec0f38</color>
+    <color name="text_gray">#888888</color>
+    <color name="text_black">#222222</color>
+    <color name="black_78">#787878</color>
+    <color name="price_red">#ff3346</color>
+    <color name="bg_gray">#f1f1f1</color>
+
+    <color name="black">#000000</color>
+    <color name="black_q">#1d1d1d</color>
+    <color name="red">#c01831</color>
+    <color name="yellow">#d3d31a</color>
+    <color name="anhong">#880d1f</color>
+    <color name="orange">#ff7f66</color>
+    <color name="red_main">#ff644f</color>
+
+
+    <color name="popup_main_background">#b0000000</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+    <color name="no_color">#00000000</color>
+
+    <color name="lightwhite">#fff</color>
+    <color name="new_redbg">#FFFF5B62</color>
+    <color name="regis_account_exist">#222222</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+    <color name="c_red">#e02c23</color>
+    <color name="c_red_j">#FF5A00</color>
+    <color name="c_red_q">#fe5e5e</color>
+    <color name="c_yellow">#d3b167</color>
+    <color name="c_blue">#3498db</color>
+    <color name="c_blue_yd">#2395ff</color>
+    <color name="c_blue_yd_1">#b2e0ff</color>
+    <color name="c_gray">#d6d6d6</color>
+    <color name="c_gray_7B">#7b7b7b</color>
+
+    <color name="c_yellow_s">#d3b130</color>
+    <color name="c_cc">#cccccc</color>
+
+    <color name="c_green">#72d1c2</color>
+    <color name="c_hui">#f2f2f2</color>
+    <color name="c_hui_f5">#f5f5f5</color>
+    <color name="c_bai">#ffffff</color>
+    <color name="c_f1">#f1f1f1</color>
+    <color name="c_line">#e1e1e1</color>
+
+
+    <color name="c_hint">#BFBFBF</color>
+
+    <color name="c_d3">#d3d3d3</color>
+    <color name="c_7c">#7c8186</color>
+    <color name="c_a28760">#A28760</color>
+
+    <color name="c_20">#80000000</color>
+
+    <color name="c_e1">#e1e1e1</color>
+    <color name="c_f0">#f0eff4</color>
+    <color name="c_33">#333333</color>
+    <color name="c_e5">#e5e5e5</color>
+    <color name="c_66">#666666</color>
+    <color name="c_88">#888888</color>
+    <color name="c_c8">#c8c8c8</color>
+    <color name="c_83">#837f77</color>
+    <color name="c_8f">#8f8f8f</color>
+    <color name="c_f8">#f8f8f8</color>
+    <color name="c_dd">#dddddd</color>
+    <color name="c_99">#999999</color>
+    <color name="c_d9">#d9d9d9</color>
+    <color name="c_32">#323232</color>
+    <color name="c_d0">#d0d0d0</color>
+    <color name="c_d4">#D4D4D4</color>
+    <color name="c_d8">#D8D8D8</color>
+    <color name="c_f6">#F6F6F6</color>
+    <color name="c_f5">#F5F5F5</color>
+    <color name="c_bd">#BDBDBD</color>
+    <color name="c_ad">#adadad</color>
+    <color name="c_5f">#F5F5F5</color>
+    <color name="c_5c">#FCFCFC</color>
+
+    <color name="c_ffae2b">#FFAE2B</color><!--主色-->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#B0000000</color>
+
+    <!--辅助色-->
+    <color name="c_fec132">#fec132</color>
+    <color name="c_fed899">#fed899</color>
+    <color name="c_90b9ff">#90b9ff</color>
+    <color name="c_7bceaa">#7bceaa</color>
+    <color name="c_9cdcff">#9cdcff</color>
+    <color name="c_e1e1e1">#e1e1e1</color>
+    <color name="c_f1f1f1">#f1f1f1</color>
+    <!--文字颜色-->
+</resources>
